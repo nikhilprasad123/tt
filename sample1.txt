@@ -1,0 +1,90 @@
+Okay text me something with proper English
+What do you mean?
+Like what?
+I am doing a project on sentence analysis
+So I need a large dataset
+Chat dataset
+Okay
+Do you know an imperative sentence?
+I knew it...I don't remember now.
+Imperative sentences are those which involve any requests or orders.
+Bring my the pendrive tomorrow.
+meet me tomorrow at the round table.
+That's neither a request nor an order.
+Add please to both the sentences.
+Yup.
+Then please request.
+Sorry can you add please to both the sentences?
+Got it.
+What should I do now?
+Hmm.. So imperative sentences should not necessarily be a request or an order but it should result in some action.
+While you text me add some imperative sentence.
+So how are you sanju?
+I am fine Vivek.
+How about you?
+So to keep this conversation interesting tell me about your life in Nigeria.
+How do I get imperative there?
+I can't use that in past tense.
+That's okay.
+Ok...
+Remind me to bring bluetooth module through whatsapp
+But why do you need this?
+I didn't get you.
+Okay let me explain to you what machine learning is.
+Okay
+Machine learning is a new technology
+If we give it a bunch of sentence and tell few of them is imperative
+The machine automatically learns to tell whether the new sentence is imperative or not
+First of all..
+It's sentence..
+Not sentence
+Oh okay I have to careful with spellings?
+Did you get what machine learning does?
+Okay...now I got you..
+Yes I did ya.
+I will give you credit if this helps me out
+Ohohoo
+You should start with a conversation.
+I am very poor at conversing especially with girls
+Could you please start the conversation?
+Please
+You are far better now..
+This is a big bug 
+Thanks I found one
+Huh?
+Well earlier I was hesitant because I didn't know how to react with a girl
+What did you people feel about me then ?
+Forget this
+Sanju you there?
+Chill
+Were you in boys school?
+Yes
+My wifi keeps going and not coming
+I totally felt you were a nerd a shy guy who doesn't talk to girls just into books all the time.
+By the way you are a nerd.
+Seriously?
+Yup
+Nope I am not nerd
+Okay leave.
+Okay I agree I am a nerd to some extent
+Extinct means dead
+So why do you need this now?
+By the way did you give 400 rs to csi?
+Today I had not got the money. So I'll pay tomorrow.
+I was writing code to do this classification
+Can you bring 400rs tomorrow?
+Wow.
+Started also.
+Will you be able to get the money or not?
+Yup I 'll bring.
+Nice.
+Fine sanju thanks for sparing your time this is enough for now I guess
+What did I do?
+Chatting with me some use less nonsense thing for long time
+I will try to tell you a few sentences if I get them
+Sure.
+remind me about tomorrow's event by evening 
+You know in machine learning not only imperative sentences but other sentences are also very important.
+hey vivek get the bluetooth module tomorrow at anycost.
+write me about this before sunday
+you have to meet poornapragna near coffee bar 

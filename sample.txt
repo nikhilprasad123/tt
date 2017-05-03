@@ -1,0 +1,8 @@
+Hello.
+This is a sample text file for the sample summarizer.
+This is to make sure if the sample code works.
+For example, if this file includes text such as, "Please get the pendrive tomorrow", this will cause an output to happen.
+If there are multiple lines with please, this has to differentiate between imperative sentences and textual information.
+But this is not there yet.
+Can you complete the summarizer by tomorrow please?
+Well, since you asked nicely, I will.
